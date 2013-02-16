@@ -8,7 +8,7 @@ Gem::Specification.new do |gem|
   gem.summary       = ""
   gem.homepage      = ""
   gem.platform      = Gem::Platform::RUBY
-  gem.name          = 'jQuery-Timepicker-Addon'
+  gem.name          = 'jquery-timepicker'
 
   gem.files         = `git ls-files`.split($\)
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
