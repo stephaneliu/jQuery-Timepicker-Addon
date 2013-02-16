@@ -1,20 +1,29 @@
-jQuery Timepicker Addon
-=======================
+# JQuery::Timepicker::Addon
 
-About
------
-- Author: [Trent Richardson](http://trentrichardson.com)
-- Documentation: [http://trentrichardson.com/examples/timepicker/](http://trentrichardson.com/examples/timepicker/)
-- Twitter: [@practicalweb](http://twitter.com/practicalweb)
+TODO: Write a gem description
 
-Use
----
-- To use this plugin you must include jQuery and jQuery UI with datepicker and slider
-- Include timepicker-addon script
-- now use timepicker with $('#selector').datetimepicker() or $('#selector').timepicker()
+## Installation
 
-Contributing Code - Please Read!
---------------------------------
-- All code contributions and bug reports are much appreciated.
-- Please be sure to apply your fixes to the "dev" branch.
-- Also note tabs are appreciated over spaces.
+Add this line to your application's Gemfile:
+
+    gem 'jQuery-Timepicker-Addon'
+
+And then execute:
+
+    $ bundle
+
+Or install it yourself as:
+
+    $ gem install jQuery-Timepicker-Addon
+
+## Usage
+
+TODO: Write usage instructions here
+
+## Contributing
+
+1. Fork it
+2. Create your feature branch (`git checkout -b my-new-feature`)
+3. Commit your changes (`git commit -am 'Added some feature'`)
+4. Push to the branch (`git push origin my-new-feature`)
+5. Create new Pull Request
