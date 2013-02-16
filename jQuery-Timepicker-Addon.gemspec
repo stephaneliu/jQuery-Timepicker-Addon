@@ -4,8 +4,8 @@ require File.expand_path('../lib/jquery/timepicker/version', __FILE__)
 Gem::Specification.new do |gem|
   gem.authors       = ["Stephane Liu"]
   gem.email         = ["sliu@sjliu.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = "Timepicker addon for Rails 3"
+  gem.summary       = ""
   gem.homepage      = ""
   gem.platform      = Gem::Platform::RUBY
   gem.name          = 'jQuery-Timepicker-Addon'
